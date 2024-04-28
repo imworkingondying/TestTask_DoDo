@@ -1,0 +1,122 @@
+{
+  "uuid": "46bc9d20-f974-4c2d-8b4e-adb970304e50",
+  "historyId": "3b0839f228a26cdc7ea13c69e53b801f",
+  "testCaseId": "a93a3286a632b3a126bd6e3dbe8765f2",
+  "fullName": "TestTask_DoDo:BigEcommerceApp.Tests.Models.UnitTest.Case_0()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SKAMURAI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "BigEcommerceApp.Tests.Models"
+    },
+    {
+      "name": "testMethod",
+      "value": "Case_0"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTest"
+    },
+    {
+      "name": "owner",
+      "value": "Platon Ionov"
+    }
+  ],
+  "links": [],
+  "name": "Case_0",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Переход на dodopizza.ru/moscow",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284811850,
+      "stop": 1714284818093
+    },
+    {
+      "name": "Получаем количество элементов на странице",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284818399,
+      "stop": 1714284818406
+    },
+    {
+      "name": "Получаем названия региона",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284818412,
+      "stop": 1714284818730
+    },
+    {
+      "name": "Скриншот",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "name",
+          "value": "\"screenshotCase_0\"",
+          "excluded": false
+        }
+      ],
+      "start": 1714284818732,
+      "stop": 1714284818939
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "970eb1f8-4710-40bb-8b63-7f290939423f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1714284810946,
+  "stop": 1714284819168
+}

@@ -1,0 +1,212 @@
+{
+  "uuid": "44dd7cd2-3682-485c-a24e-e6a829d4134c",
+  "historyId": "66d7d49cd2367bafc0d65c4db13d0794",
+  "testCaseId": "26374f7ee90739809e6c318b99ed7ce7",
+  "fullName": "TestTask_DoDo:BigEcommerceApp.Tests.Models.UnitTest.Case_1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SKAMURAI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "BigEcommerceApp.Tests.Models"
+    },
+    {
+      "name": "testMethod",
+      "value": "Case_1"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTest"
+    },
+    {
+      "name": "owner",
+      "value": "Platon Ionov"
+    }
+  ],
+  "links": [],
+  "name": "Case_1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Переход на dodopizza.ru/moscow",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284819652,
+      "stop": 1714284825438
+    },
+    {
+      "name": "Выбираем случайную пиццу...",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284825438,
+      "stop": 1714284826406
+    },
+    {
+      "name": "Получение названия пиццы с главной страницы",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284826407,
+      "stop": 1714284826508
+    },
+    {
+      "name": "Получение названия пиццы со всплывающего окна",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284826508,
+      "stop": 1714284826585
+    },
+    {
+      "name": "Получение цены пиццы на главной страницы",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284826585,
+      "stop": 1714284826608
+    },
+    {
+      "name": "Получение цены пиццы во всплывающем окне",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284826609,
+      "stop": 1714284826673
+    },
+    {
+      "name": "Выбор размера пиццы и добавление в корзину",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284826674,
+      "stop": 1714284827243
+    },
+    {
+      "name": "Указание адреса",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284827244,
+      "stop": 1714284828433
+    },
+    {
+      "name": "Получение количества пицц на кнопке корзины",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284828433,
+      "stop": 1714284829407
+    },
+    {
+      "name": "Скриншот",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "name",
+          "value": "\"screenshotCase_1\"",
+          "excluded": false
+        }
+      ],
+      "start": 1714284829413,
+      "stop": 1714284829589
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "3622ec19-81e5-4f14-8974-c8c7f35ba11a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1714284819190,
+  "stop": 1714284829809
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "80c4541f-7c86-4b8d-808e-93d2e954afcf",
+  "name": "BigEcommerceApp.Tests.Models.UnitTest.Case_3",
+  "children": [
+    "d302c6c5-15d9-4734-8600-8e31f327f3b2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1714284844937,
+  "stop": 1714284852230
+}

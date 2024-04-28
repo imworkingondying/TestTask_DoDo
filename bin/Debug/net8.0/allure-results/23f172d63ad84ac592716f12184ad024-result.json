@@ -1,0 +1,137 @@
+{
+  "uuid": "d302c6c5-15d9-4734-8600-8e31f327f3b2",
+  "historyId": "bfab2c539de340c3744cb17d1550090e",
+  "testCaseId": "dbdcfc8caba3b8657bf6317380837546",
+  "fullName": "TestTask_DoDo:BigEcommerceApp.Tests.Models.UnitTest.Case_3()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SKAMURAI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "BigEcommerceApp.Tests.Models"
+    },
+    {
+      "name": "testMethod",
+      "value": "Case_3"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTest"
+    },
+    {
+      "name": "owner",
+      "value": "Platon Ionov"
+    }
+  ],
+  "links": [],
+  "name": "Case_3",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Переход на dodopizza.ru/moscow",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284845384,
+      "stop": 1714284851016
+    },
+    {
+      "name": "Переход в раздел Контакты",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284851017,
+      "stop": 1714284851723
+    },
+    {
+      "name": "Получение номера телефона",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284851723,
+      "stop": 1714284851853
+    },
+    {
+      "name": "Получение почты",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1714284851854,
+      "stop": 1714284851878
+    },
+    {
+      "name": "Скриншот",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "name",
+          "value": "\"screenshotCase_3\"",
+          "excluded": false
+        }
+      ],
+      "start": 1714284851878,
+      "stop": 1714284852048
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "8c6ca4b2-b4fe-46ee-a3af-d137e91c6865-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1714284844937,
+  "stop": 1714284852229
+}

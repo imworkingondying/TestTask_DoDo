@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRXvLIibDFu/w+UdlTUGJ8d3mrscllqsVb+ybpAXLR3xPwm1AF8tZMIc69znsFVhnTEEaiTe/827/ikGPcGA6w==",
+  "success": true,
+  "projectFilePath": "C:\\Rabota\\Work\\TestTask_DoDo\\TestTask_DoDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diono\\.nuget\\packages\\allure.net.commons\\2.12.0\\allure.net.commons.2.12.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\allure.nunit\\2.12.0\\allure.nunit.2.12.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\aspectinjector\\2.8.1\\aspectinjector.2.8.1.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.playwright\\1.42.0\\microsoft.playwright.1.42.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.playwright.nunit\\1.42.0\\microsoft.playwright.nunit.1.42.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.playwright.testadapter\\1.42.0\\microsoft.playwright.testadapter.1.42.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\nunit.analyzers\\4.0.1\\nunit.analyzers.4.0.1.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\diono\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
